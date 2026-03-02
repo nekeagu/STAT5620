@@ -1,2 +1,0 @@
-# STAT5620-A2NANCY
-Data Analysis
